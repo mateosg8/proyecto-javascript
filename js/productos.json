@@ -1,0 +1,79 @@
+[
+    {
+        "id": "apartamento-01",
+        "titulo": "Apartamento 01",
+        "imagen": "../img/apartamentos/Apartamento-1.webp",
+        "categoria": {
+            "nombre": "Apartamentos",
+            "id": "apartamentos"
+        },
+        "precio": 250000000,
+        "ubicacion":"Cartagena - Las Marmotes"
+    },
+    {
+        "id": "apartamento-02",
+        "titulo": "Apartamento 02",
+        "imagen": "../img/apartamentos/Apartamento-2.png",
+        "categoria": {
+            "nombre": "Apartamentos",
+            "id": "apartamentos"
+        },
+        "precio": 750000000,
+        "ubicacion":"Cartagena - Manga"
+    },
+    {
+        "id": "apartamento-03",
+        "titulo": "Apartamento 03",
+        "imagen": "../img/apartamentos/Apartamento-3.jpg",
+        "categoria": {
+            "nombre": "Apartamentos",
+            "id": "apartamentos"
+        },
+        "precio": 990000000,
+        "ubicacion":"Medellin - Poblado"
+    },
+    {
+        "id": "casa-02",
+        "titulo": "Casa 02",
+        "imagen": "../img/casas/casa-2.jpg",
+        "categoria": {
+            "nombre": "Casas",
+            "id": "casas"
+        },
+        "precio": 8000000000,
+        "ubicacion":"Bogota - Chapinero"
+    },
+    {
+        "id": "casa-01",
+        "titulo": "Casa 01",
+        "imagen": "../img/casas/casa-1.jpeg",
+        "categoria": {
+            "nombre": "Casas",
+            "id": "casas"
+        },
+        "precio": 5000000000,
+        "ubicacion":"Cartagena - Rincon Guapo"
+    },
+    {
+        "id": "lote-01",
+        "titulo": "Lote 01",
+        "imagen": "../img/lotes/Lote - 01.jpg",
+        "categoria": {
+            "nombre": "Lotes",
+            "id": "lotes"
+        },
+        "precio": 90000000,
+        "ubicacion":"Cartagena - La Perimetral"
+    },
+    {
+        "id": "lote-02",
+        "titulo": "Lote 02",
+        "imagen": "../img/lotes/Lote - 02.jpg",
+        "categoria": {
+            "nombre": "Lotes",
+            "id": "lotes"
+        },
+        "precio": 100000000,
+        "ubicacion":"Risaralda - Pereira"
+    }
+]
